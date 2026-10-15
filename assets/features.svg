@@ -9,49 +9,49 @@
 <rect width="920" height="420" fill="url(#g2)" rx="18"/>
 <rect width="920" height="420" fill="url(#dots)" rx="18"/>
 <rect x="0.6" y="0.6" width="918.8" height="418.8" rx="17.4" fill="none" stroke="url(#bd)" stroke-width="1.4"/>
-<g transform="translate(48,45)"><text fill="#ff354f" font-size="11" font-weight="800" letter-spacing="2">01 / CORE FEATURES</text><text y="32" fill="#ffffff" font-size="24" font-weight="900">Everything your music needs</text></g><g transform="translate(48,100)" style="animation:rise .8s ease-out 0.0s both">
+<g transform="translate(48,45)"><text fill="#ff354f" font-size="11" font-weight="800" letter-spacing="2">01 / CORE FEATURES</text><text y="32" fill="#ffffff" font-size="24" font-weight="900">Everything your music needs</text></g><g transform="translate(48,100)"><g style="animation:rise .8s ease-out 0.0s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(255,53,79,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(255,53,79,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">🎧</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Lossless &amp; Hi-Res</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">FLAC / ALAC up to 24-bit / 192 kHz</text></g><g transform="translate(336,100)" style="animation:rise .8s ease-out 0.1s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">FLAC / ALAC up to 24-bit / 192 kHz</text></g></g><g transform="translate(336,100)"><g style="animation:rise .8s ease-out 0.1s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(36,123,255,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(36,123,255,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">🎤</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Synced Lyrics</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Word-by-word glow &amp; translation</text></g><g transform="translate(624,100)" style="animation:rise .8s ease-out 0.2s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Word-by-word glow &amp; translation</text></g></g><g transform="translate(624,100)"><g style="animation:rise .8s ease-out 0.2s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(57,211,83,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(57,211,83,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">📶</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Offline Downloads</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Save songs with artwork &amp; tags</text></g><g transform="translate(48,192)" style="animation:rise .8s ease-out 0.30000000000000004s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Save songs with artwork &amp; tags</text></g></g><g transform="translate(48,192)"><g style="animation:rise .8s ease-out 0.30000000000000004s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(124,58,237,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(124,58,237,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">👥</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Listen Together</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Party of 2–10 via code or QR</text></g><g transform="translate(336,192)" style="animation:rise .8s ease-out 0.4s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Party of 2–10 via code or QR</text></g></g><g transform="translate(336,192)"><g style="animation:rise .8s ease-out 0.4s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(255,53,79,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(255,53,79,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">🔄</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Shiddat Connect</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Hand off playback across devices</text></g><g transform="translate(624,192)" style="animation:rise .8s ease-out 0.5s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Hand off playback across devices</text></g></g><g transform="translate(624,192)"><g style="animation:rise .8s ease-out 0.5s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(36,123,255,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(36,123,255,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">🎛️</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Automix &amp; Crossfade</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Beat-matched, gapless, 0–12 s blend</text></g><g transform="translate(48,284)" style="animation:rise .8s ease-out 0.6000000000000001s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Beat-matched, gapless, 0–12 s blend</text></g></g><g transform="translate(48,284)"><g style="animation:rise .8s ease-out 0.6000000000000001s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(57,211,83,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(57,211,83,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">📥</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Import Playlists</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Bring Spotify &amp; Apple Music over</text></g><g transform="translate(336,284)" style="animation:rise .8s ease-out 0.7000000000000001s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Bring Spotify &amp; Apple Music over</text></g></g><g transform="translate(336,284)"><g style="animation:rise .8s ease-out 0.7000000000000001s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(124,58,237,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(124,58,237,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">🎮</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Discord Presence</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Show your track live on Discord</text></g><g transform="translate(624,284)" style="animation:rise .8s ease-out 0.8s both">
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Show your track live on Discord</text></g></g><g transform="translate(624,284)"><g style="animation:rise .8s ease-out 0.8s both">
 <rect width="272" height="70" rx="10" fill="rgba(15,23,42,0.85)" stroke="rgba(255,53,79,0.4)" stroke-width="1.2"/>
 <circle cx="28" cy="35.0" r="15" fill="rgba(255,53,79,0.16)"/>
 <text x="28" y="41.0" text-anchor="middle" font-size="15">🔁</text>
 <text x="54" y="31.0" fill="#f0f6fc" font-size="13" font-weight="800">Replay</text>
-<text x="54" y="49.0" fill="#94a3b8" font-size="11">Your top songs, artists &amp; genres</text></g></svg>
+<text x="54" y="49.0" fill="#94a3b8" font-size="11">Your top songs, artists &amp; genres</text></g></g></svg>
