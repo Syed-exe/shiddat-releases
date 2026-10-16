@@ -225,7 +225,7 @@ Shiddat is an independent music app and is **not affiliated with or endorsed by*
 
 **🔥 SHIDDAT — Music with intensity.**
 
-Made with ❤️ by [**Syed_exe**](https://github.com/Syed-exe) • [shiddat.snapz.dev](https://shiddat.snapz.dev)
+Made for ❤️ by [**WhyOnlyThakur**](https://github.com/whyonlythakur) • [**Syed_exe**](https://github.com/Syed-exe) 
 
 <a href="#top"><b>▲ BACK TO TOP</b></a>
 
